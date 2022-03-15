@@ -9,3 +9,5 @@ Wybor pasujących do siebie kolorów
   Wizualna prezentacja rozwiazania
   
 15.03.2022r
+  Utworzenie HM oraz HMS
+  Wypelnianie HM losowo
